@@ -1,7 +1,6 @@
 # 🧠 Sentiment Analysis AI (Transformers + Python)
 
-A simple AI project that uses Hugging Face Transformers to perform **sentiment analysis** on text.  
-Built and tested on **Apple Silicon (M1/M2/M3 Macs)**.
+An AI project that uses Hugging Face Transformers to perform **sentiment analysis** on text.  
 
 ---
 
@@ -16,7 +15,7 @@ Built and tested on **Apple Silicon (M1/M2/M3 Macs)**.
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR-USERNAME/sentiment-analysis-ai.git
+git clone https://github.com/CobbyHeamde103//sentiment-analysis-ai.git
 cd sentiment-analysis-ai
 
 # Create a virtual environment
